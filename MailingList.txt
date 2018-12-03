@@ -1,0 +1,4 @@
+Patrice Francois;patrice.francois@afpa.fr
+CDI;cdi.langueux@afpa.fr
+Formateurs;cdi.formateur@afpa.fr
+
